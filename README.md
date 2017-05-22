@@ -1,25 +1,25 @@
 # generator-ss-validate-commit-msg
 
-install validate-commit-msg and husky and set git's commitmsg hook.
+yeoman generator to install validate-commit-msg and husky and set git's commitmsg hook.
 
 ## Requirements
 
 * Node.js
-* npm
+* yarn
 * yo
 
 ## Install
 
 ```bash
-git clone https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg
-cd generator-ss-validate-commit-msg  
-npm link
+$ git clone https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg
+$ cd generator-ss-validate-commit-msg  
+$ npm link
 ```
 
 Then generate your new project:
 
 ```bash
-yo ss-validate-commit-msg
+$ yo ss-validate-commit-msg
 ```
 
 ## License
