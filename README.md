@@ -11,9 +11,7 @@ yeoman generator to install validate-commit-msg and husky and set git's commitms
 ## Install
 
 ```bash
-$ git clone https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg
-$ cd generator-ss-validate-commit-msg  
-$ npm link
+$ npm i -g generator-ss-validate-commit-msg
 ```
 
 Then generate your new project:
