@@ -1,6 +1,8 @@
 # generator-ss-validate-commit-msg
 
-yeoman generator to install validate-commit-msg and husky and set git's commitmsg hook.
+[yeoman generator](http://yeoman.io/) to install [validate-commit-msg](https://github.com/conventional-changelog/validate-commit-msg) and [husky](https://github.com/typicode/husky) and set git's commitmsg hook.
+
+This repository is based on the boilerplate created by [generator-generator](https://github.com/yeoman/generator-generator).
 
 ## Requirements
 

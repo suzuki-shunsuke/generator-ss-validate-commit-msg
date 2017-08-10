@@ -1,7 +1,7 @@
 {
   "name": "generator-ss-validate-commit-msg",
   "version": "1.0.0",
-  "description": "install validate-commit-msg and husky and set git's commitmsg hook",
+  "description": "yeoman generator to install validate-commit-msg and husky and set git's commitmsg hook",
   "homepage": "https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg",
   "author": {
     "name": "Suzuki Shunsuke",
